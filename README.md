@@ -3,6 +3,3 @@
 
 Simple markdown previewer built with React
 https://dpett.github.io/Markdown-Previewer/
-
-
-![screenshot](screenshot.png)
